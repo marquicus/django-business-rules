@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 set -e
 
-twine upload build/dist/*
+twine upload dist/*
